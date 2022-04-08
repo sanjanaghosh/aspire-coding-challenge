@@ -10,7 +10,7 @@
 ## Tools And Libraries
 **Development Dependencies:**
 
-* **Language Used**: Java | Version: 8
+* **Language Used**: Java | Version: 18
 * **Test Framework Used**: TestNG | Version: 7.5
 * **Automation Tool Used**: Selenium Webdriver | Version: 4.1.2
 * **External Libraries Used**: 
